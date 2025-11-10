@@ -10,6 +10,13 @@
 
 # production
 /build
+/public
+
+/src/logo.svg
+/src/reportWebVitals.js
+/src/setupTests.js
+/src/App.test.js
+
 
 # misc
 .DS_Store
